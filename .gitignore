@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+outputs/*
+!outputs/__init__.py
+prev_trained_model/*
+!prev_trained_model/__init__.py
